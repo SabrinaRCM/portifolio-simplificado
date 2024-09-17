@@ -202,6 +202,11 @@ body {
     display: none;
 }
 
+.link-github {
+    position: absolute;
+    bottom: 12%;
+}
+
 @keyframes gradient-animation {
     0% {
         background-position: 0% 50%;
